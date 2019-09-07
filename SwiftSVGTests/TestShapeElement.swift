@@ -26,6 +26,7 @@
 //  THE SOFTWARE.
 
 import UIKit
+@testable import SwiftSVG
 
 struct TestShapeElement: SVGShapeElement {
     static let elementName: String = "test"

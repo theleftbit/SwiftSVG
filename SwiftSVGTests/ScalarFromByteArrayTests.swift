@@ -29,6 +29,7 @@
 
 
 import XCTest
+@testable import SwiftSVG
 
 class ScalarFromByteArrayTests: XCTestCase {
 

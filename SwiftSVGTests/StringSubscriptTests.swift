@@ -29,6 +29,7 @@
 
 
 import XCTest
+import SwiftSVG
 
 class StringSubscriptTests: XCTestCase {
     
